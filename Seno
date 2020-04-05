@@ -1,0 +1,9 @@
+algoritmo "semnome"
+var
+  grau,A:Real
+inicio
+       Escreva("Digite o grau:")
+       Leia(grau)
+       A<-sen(GraupRad(grau))
+      Escreva(A)
+fimalgoritmo
