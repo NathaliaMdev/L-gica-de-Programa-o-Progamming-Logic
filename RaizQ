@@ -1,0 +1,7 @@
+algoritmo "semnome"
+var
+A: Real
+inicio
+      A<-RaizQ(25)
+      Escreva(A)
+fimalgoritmo
